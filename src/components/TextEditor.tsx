@@ -1,5 +1,4 @@
 "use client";
-
 import { ClientSideSuspense, useThreads } from "@liveblocks/react/suspense";
 import {
   FloatingComposer,
